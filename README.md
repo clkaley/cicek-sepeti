@@ -5,16 +5,15 @@ HTML, CSS, Bootstrap ve JS kullanılarak oluşturulmuştur.
 İçerikte Header, Navbar, Slider, Card ve Footer yapısı bulunmaktadır.
 
 
-![Ekran Görüntüsü (321)](https://user-images.githubusercontent.com/74673470/181702952-fdddce46-468d-49e5-82ec-6f6c4c82811a.png)
+![Ekran Görüntüsü (342)](https://user-images.githubusercontent.com/74673470/181724185-be151590-7f54-4e57-8d82-fd602f510b60.png)
 
 
 
-![Ekran Görüntüsü (322)](https://user-images.githubusercontent.com/74673470/181703047-4b7e672a-0f9d-4e70-8270-fac37d120e1e.png)
+![Ekran Görüntüsü (344)](https://user-images.githubusercontent.com/74673470/181724195-b8d8a07f-791e-45fe-b47f-e1aef978481a.png)
 
 
 
-![Ekran Görüntüsü (323)](https://user-images.githubusercontent.com/74673470/181703095-d0848902-e572-430d-927f-460933445be9.png)
-
+![Ekran Görüntüsü (345)](https://user-images.githubusercontent.com/74673470/181724201-0ec6ef42-a59c-47b4-b888-fed3602266d6.png)
 
 
 #### Mobil Tasarım
